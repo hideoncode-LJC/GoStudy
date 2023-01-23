@@ -4,61 +4,9 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94c4c635-74c0-447b-9832-23b85cb2b58d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/GoStudy.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/channel/introduce.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/constant/constant.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/constant/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/error/demo1/demo1.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/error/demo1/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/error/introduce.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/fmt/Print/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/fmt/intro.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/function/demo1/demo1.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/function/demo1/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/function/demo2/demo2.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/function/demo2/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/function/demo3/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/function/demo4/demo4.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/function/demo4/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/function/demo5/demo5.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/function/demo5/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/function/demo6/demo6.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/function/demo6/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/function/demo7/demo7.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/function/demo7/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/function/demo8/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/function/introduce.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/if-else/if-else.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/if-else/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/interface/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/reflect/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/struct/introduce.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/test/intro.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/test/split/split.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/test/split/split_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/type.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/type/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/type/type.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/type/type.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/virable/intro.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/virable/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/virable/virable.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/function.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/http/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/identifier.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interface.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/map.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/slice.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/struct.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/type/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/type/type.exe" afterDir="false" />
+    <list default="true" id="94c4c635-74c0-447b-9832-23b85cb2b58d" name="Changes" comment="second commit">
+      <change afterPath="$PROJECT_DIR$/GoSummary.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -171,5 +119,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="second commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="second commit" />
   </component>
 </project>
